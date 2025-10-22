@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+:root{
+    --color-primary: #ff4500;/*botones*/
+    --color-secondary: #ff6b35;/*hover*/
+    --color-dark: #0a0a0a;/*fondos principales*/
+    --color-gray: #1a1a1a;/*fondos tarjetas*/
+    --color-gray-light: #2a2a2a;/*botones, divisores*/
+    --color-text: #e0e0e0;/*texto principal*/
+    --color-text-muted: #999999;/*texto secundario*/
+    --color-white: #ffffff;/*blanco puro*/
+    --color-success: #4caf50;/*Confirmación, éxito*/
+
+    /*Espaciados*/
+    --spacing-xs:0.5rem;/*8px*/
+    --spacing-sm:1rem;/*16px*/
+    --spacing-sm:1.5rem;/*24px*/
+    --spacing-sm:2rem;/*32px*/
+    --spacing-sm:3rem;/*48px*/
+
+    
+}
